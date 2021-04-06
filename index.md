@@ -34,9 +34,10 @@ __Cyber Defence Center - Technical Lead__
 
 `July 2020 - Present`
 __Cyber Defence Center - Service Architect__
-- Developed and implemented hunting process for preemptively identifying vulnerabilities within the network and placing analysts on an active defense posture for continuous monitoring of network and host activities.
-- Developed and implemented an internal penetration testing / red team unit for identifying vulnerabilities within the organization.
-- Completed processes and documentation improvement actions to refine documentation including incident response process, improve accountability and metrics collection, and enhance information sharing with various partners.
+- Developed and implemented hunting process for preemptively identifying vulnerabilities within the network 
+\/- and placing analysts on an active defense posture for continuous monitoring of network and host activities.
+\- Developed and implemented an internal penetration testing / red team unit for identifying vulnerabilities within the organization.
+/- Completed processes and documentation improvement actions to refine documentation including incident response process, improve accountability and metrics collection, and enhance information sharing with various partners.
 
 `February 2020 - Present`
 __Cyber Defence Center - Incident Responder__
