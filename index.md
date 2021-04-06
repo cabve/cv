@@ -102,40 +102,40 @@ __Royal Danish Navy, Operation Specialist__
 
 ## Certifications
 
-GCFA GIAC Certified Forencis Analyst
-eCPPT eLearnSecurity Certified Professional Penetration Tester
-CEH Certified Ethical Hacker 
+- GCFA GIAC Certified Forencis Analyst
+- eCPPT eLearnSecurity Certified Professional Penetration Tester
+- CEH Certified Ethical Hacker 
 
 ## Education
 `2016`
-Copenhagen School of Design and Technology, Computer Science
+- Copenhagen School of Design and Technology, Computer Science
 
 ## Training
 
 `2021`
-FOR578: Cyber Threat Intelligence (SANS)
+- FOR578: Cyber Threat Intelligence (SANS)
 
 `2020`
-FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics (SANS)
-Security Writing (Applied Network Defence)
-Investigation Theory (Applied Network Defence)
+- FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics
+- Security Writing (Applied Network Defence)
+- Investigation Theory (Applied Network Defence)
 
 `2018`
-Penetration Testing eXtreme (eLearnSecurity) 
-Windows Red Team Lab (Pentester Academy) 
-Windows API Exploitation Recipes: Processes, Tokens and Memory RW (Pentester Academy) 
-Penetration Testing Professional v.4 (eLearnSecurity) 
-Abusing SQL Server Trusts in a Windows Domain (Pentester Academy) 
-Pandas For Pentesters (Pentester Academy) 
-WMI Attacks and Defense (Pentester Academy) 
-Data Science and Machine Learning for Infosec (Pentester Academy) 
+- Penetration Testing eXtreme (eLearnSecurity) 
+- Windows Red Team Lab (Pentester Academy) 
+- Windows API Exploitation Recipes: Processes, Tokens and Memory RW (Pentester Academy) 
+- Penetration Testing Professional v.4 (eLearnSecurity) 
+- Abusing SQL Server Trusts in a Windows Domain (Pentester Academy) 
+- Pandas For Pentesters (Pentester Academy) 
+- WMI Attacks and Defense (Pentester Academy) 
+- Data Science and Machine Learning for Infosec (Pentester Academy) 
 
 `2017`
-Powershell For Pentesters (Pentester Academy) 
+- Powershell For Pentesters (Pentester Academy) 
 
 `2016`
-Penetration Testing Course – Student v.3 (eLearnSecurity) 
-Certified Ethical Hacker v9 (EC Council)
+- Penetration Testing Course – Student v.3 (eLearnSecurity) 
+- Certified Ethical Hacker v9 (EC Council)
 
 <!-- ### Footer
 
