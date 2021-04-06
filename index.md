@@ -22,10 +22,12 @@ While always striving to improve my technical skillset, holder of several certif
 I am a loyal, caring and ambitious person by nature, which make me a terrific colleague. My curiosity makes me great at expanding my skillset. Patient and independent, which let me work well in a team or independendently.
 
 ## Working Experience
-`June 1661 - now`
 
-**JN Data, `January 2019 - Present`**
-*Cyber Defence Center - Technical Lead, August 2020 - Present*
+`January 2019 - Present`
+__JN Data__
+
+`August 2020 - Present`
+__Cyber Defence Center - Technical Lead__
 * Provided operational leadership and oversight to a diverse team, while personally contributing to the incident response process.
 * Provide technical risk analysis and threat briefings to various decision makers to support the network development, management, and the customers.
 * Completed necessary process and documentation improvement actions to documentation.
