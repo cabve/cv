@@ -28,9 +28,9 @@ __JN Data__
 
 `August 2020 - Present`
 __Cyber Defence Center - Technical Lead__
-* Provided operational leadership and oversight to a diverse team, while personally contributing to the incident response process.
-* Provide technical risk analysis and threat briefings to various decision makers to support the network development, management, and the customers.
-* Completed necessary process and documentation improvement actions to documentation.
+  - Provided operational leadership and oversight to a diverse team, while personally contributing to the incident response process.
+  - Provide technical risk analysis and threat briefings to various decision makers to support the network development, management, and the customers.
+  * Completed necessary process and documentation improvement actions to documentation.
 
 *Cyber Defence Center - Service Architect, July 2020 - Present*
 * Developed and implemented hunting process for preemptively identifying vulnerabilities within the network and placing analysts on an active defense posture for continuous monitoring of network and host activities.
