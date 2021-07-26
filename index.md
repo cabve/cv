@@ -102,6 +102,7 @@ __Royal Danish Navy, Operation Specialist__
 
 ## Certifications
 
+- GCTI GIAC Cyber Threat Intelligence
 - GCFA GIAC Certified Forencis Analyst
 - eCPPT eLearnSecurity Certified Professional Penetration Tester
 - CEH Certified Ethical Hacker 
