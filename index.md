@@ -25,6 +25,12 @@ I am a loyal, caring and ambitious person by nature, which make me a terrific co
 `January 2019 - Present`
 __JN Data__
 
+`August 2020 - Present`
+__Incident Response Technical Lead__
+- Provided operational leadership and oversight to a diverse team, while personally contributing to the incident response process.
+- Provide technical risk analysis and threat briefings to various decision makers to support the network development, management, and the customers.
+- Completed necessary process and documentation improvement actions to documentation.
+
 `July 2020 - Present`
 __Cyber Defence Center - Service Architect__
 - Developed and implemented hunting process for preemptively identifying vulnerabilities within the network and placing analysts on an active defense posture for continuous monitoring of network and host activities.
@@ -38,12 +44,6 @@ __Incident Responder and Cyber Threat Intelligence Analyst__
 - Performed extensive threat hunting
 - Perform extensive malware analysis, resulting in network and host-based signatures for various malware families
 - Performed research on adversary infrastructure and tendencies covering both organized crime groups (OCG) and Advanced Persistent Threat (APT) adversaries.
-
-`August 2020 - August 2021`
-__Incident Response Technical Lead__
-- Provided operational leadership and oversight to a diverse team, while personally contributing to the incident response process.
-- Provide technical risk analysis and threat briefings to various decision makers to support the network development, management, and the customers.
-- Completed necessary process and documentation improvement actions to documentation.
 
 `January 2019 - January 2020`
 __Security Consultant__
@@ -97,8 +97,8 @@ __Nordic Bioscience, IT supporter__
 __Royal Danish Navy, Operation Specialist__
 * Interpreted and evaluated tactical situations. 
 * Maintained Combat information center tactical and strategic information. 
+* Maintained situational awareness.
 * Provided command technical information and assistance. 
-* Made recommendations to supervisors during watch situations.
 
 ## Certifications
 
@@ -114,6 +114,7 @@ __Royal Danish Navy, Operation Specialist__
 ## Training
 
 `2021`
+- SEC587: Advanced Open-Source Intelligence (OSINT) Gathering and Analysis
 - FOR578: Cyber Threat Intelligence (SANS)
 
 `2020`
@@ -140,6 +141,6 @@ __Royal Danish Navy, Operation Specialist__
 
 <!-- ### Footer
 
-Last updated: July 2021 -->
+Last updated: November 2021 -->
 
 
